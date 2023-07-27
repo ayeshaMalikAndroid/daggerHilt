@@ -1,7 +1,6 @@
-package com.example.daggerhiltapp
+package com.example.daggerhiltapp.work
 
 import com.example.daggerhiltapp.FireBaseRepository
-import com.example.daggerhiltapp.MainFragment
 import com.example.daggerhiltapp.UserRepository
 import dagger.Module
 import dagger.Provides

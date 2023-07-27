@@ -1,4 +1,4 @@
-package com.example.hilt
+package com.example.daggerhiltapp.work
 
 import android.util.Log
 import javax.inject.Inject
