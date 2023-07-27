@@ -1,7 +1,6 @@
 package com.example.daggerhiltapp
 
 import android.util.Log
-import com.google.android.material.tabs.TabLayout.TabGravity
 import javax.inject.Inject
 
 const val TAG = "UserRepository"
